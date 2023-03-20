@@ -1,0 +1,15 @@
+/Users/chenqikun/Documents/TCPServer/bin/Debug/net7.0/TCPServer
+/Users/chenqikun/Documents/TCPServer/bin/Debug/net7.0/TCPServer.deps.json
+/Users/chenqikun/Documents/TCPServer/bin/Debug/net7.0/TCPServer.runtimeconfig.json
+/Users/chenqikun/Documents/TCPServer/bin/Debug/net7.0/TCPServer.dll
+/Users/chenqikun/Documents/TCPServer/bin/Debug/net7.0/TCPServer.pdb
+/Users/chenqikun/Documents/TCPServer/obj/Debug/net7.0/TCPServer.csproj.AssemblyReference.cache
+/Users/chenqikun/Documents/TCPServer/obj/Debug/net7.0/TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenqikun/Documents/TCPServer/obj/Debug/net7.0/TCPServer.AssemblyInfoInputs.cache
+/Users/chenqikun/Documents/TCPServer/obj/Debug/net7.0/TCPServer.AssemblyInfo.cs
+/Users/chenqikun/Documents/TCPServer/obj/Debug/net7.0/TCPServer.csproj.CoreCompileInputs.cache
+/Users/chenqikun/Documents/TCPServer/obj/Debug/net7.0/TCPServer.dll
+/Users/chenqikun/Documents/TCPServer/obj/Debug/net7.0/refint/TCPServer.dll
+/Users/chenqikun/Documents/TCPServer/obj/Debug/net7.0/TCPServer.pdb
+/Users/chenqikun/Documents/TCPServer/obj/Debug/net7.0/TCPServer.genruntimeconfig.cache
+/Users/chenqikun/Documents/TCPServer/obj/Debug/net7.0/ref/TCPServer.dll
